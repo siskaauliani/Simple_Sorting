@@ -22,11 +22,11 @@
 
 ## Fungsi yang Digunakan di dalam Kode Program
 
-1. `generateRandomNumbers(int array[], int size, int seed)`: Digunakan untuk mengisi array dengan bilangan acak.
-2. `bubbleSort(int array[], int size)`: Mengimplementasikan algoritma Bubble Sort untuk mengurutkan array.
-3. `selectionSort(int array[], int size)`: Mengimplementasikan algoritma Selection Sort untuk mengurutkan array.
-4. `insertionSort(int array[], int size)`: Mengimplementasikan algoritma Insertion Sort untuk mengurutkan array.
-5. `printHeader()`: Mencetak header tabel untuk output.
-6. `printRow(const char *algorithm, int size, double time)`: Mencetak satu baris tabel dengan hasil pengujian.
-7. `printFooter()`: Mencetak footer tabel untuk output.
+1. generateRandomNumbers(int array[], int size, int seed): Digunakan untuk mengisi array dengan bilangan acak.
+2. bubbleSort(int array[], int size): Mengimplementasikan algoritma Bubble Sort untuk mengurutkan array.
+3. selectionSort(int array[], int size): Mengimplementasikan algoritma Selection Sort untuk mengurutkan array.
+4. insertionSort(int array[], int size): Mengimplementasikan algoritma Insertion Sort untuk mengurutkan array.
+5. printHeader(): Mencetak header tabel untuk output.
+6. printRow(const char *algorithm, int size, double time): Mencetak satu baris tabel dengan hasil pengujian.
+7. printFooter(): Mencetak footer tabel untuk output.
 
