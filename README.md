@@ -1,4 +1,4 @@
-# Simple Sorting Program
+# Simple Sorting 
 
 ## Cara Menjalankan Kode Program
 
@@ -9,13 +9,13 @@
 5. Kompilasi kode program menggunakan kompiler C. Misalnya, jika Anda menggunakan GCC, gunakan perintah berikut di terminal:
 
     ```
-    gcc sorting_program.c -o sorting_program
+    gcc Simple_Sorting.c -o sorting_program
     ```
 
 6. Setelah kompilasi selesai, jalankan program dengan menggunakan perintah berikut:
 
     ```
-    ./sorting_program
+    ./Simple_Sorting
     ```
 
 7. Program akan mulai menjalankan pengujian algoritma pengurutan dan menampilkan outputnya di terminal.
